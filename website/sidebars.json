@@ -1,10 +1,11 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+  "cours": {
+    "Intro au traitement du signal": ["intro-signal-treatment","intro-noise","intro-signal-classes","intro-energie-signal-power","intro-signal-continuous-discreet","intro-signal-usual-dirac","intro-slit"],
+    "Analyse Fréquentielle": ["frequency-notion","frequency-dsf"],
+    "Signaux Discrets": ["signal"],
+    "Filtrage": ["filter"]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "applications": {
+    "Travaux Pratiques": ["nasdaq"]
   }
 }
