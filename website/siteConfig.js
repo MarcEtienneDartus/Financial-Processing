@@ -30,7 +30,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro-signal-treatment', label: 'Cours'},
-    {doc: 'nasdaq', label: 'Applications'},
+    {doc: 'python-setup', label: 'Applications'},
   ],
 
   // If you have users set above, you add it here:
@@ -66,7 +66,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: 'atom-one-dark',
   },
 
   // Add custom scripts here that would be placed in <script> tags.

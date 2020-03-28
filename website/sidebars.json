@@ -6,6 +6,6 @@
     "Filtrage": ["filter"]
   },
   "applications": {
-    "Travaux Pratiques": ["nasdaq"]
+    "Travaux Pratiques": ["python-setup","spectral-analysis","nasdaq","finance-appliation"]
   }
 }

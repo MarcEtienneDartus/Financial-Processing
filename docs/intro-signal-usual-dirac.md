@@ -10,7 +10,7 @@ Un fois les principes de base du traitement du signal posés, cela devient très
 **Heaviside Γ(𝑡):**
 ![](assets/intro/image016.png "Heaviside Γ(𝑡)")
 
-**rectangle centréΠ𝑇(𝑡)**
+**rectangle centré Π𝑇(𝑡):**
 ![](assets/intro/image018.png "rectangle centréΠ𝑇(𝑡)")
 
 Vient ensuite le Dirac, ce n’est pas réellement un signal, mais un outil mathématique très utilisé dans le traitement du signal, notamment dans l’échantillonnage.

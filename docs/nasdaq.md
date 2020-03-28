@@ -138,7 +138,7 @@ Le but est d'avoir un premier aperçu de l'évolution de la valeur de cloture du
 **Résultat attendu :**
 
 
-![png](assets/filter/notebook_14_1.png)
+![png](assets/nasdaq/notebook_14_1.png)
 
 
 ## Exercice 3: Filtre passe haut
@@ -153,7 +153,7 @@ Le but est d'appliquer un filtre passe-haut, en utilisant 1 cycle/an comme fréq
 
 **Résultat attendu :**
 
-![png](assets/filter/notebook_18_1.png)
+![png](assets/nasdaq/notebook_18_1.png)
 
 
 ### Partie 2
@@ -166,7 +166,7 @@ Nous pouvons aussi utiliser une fréquence de coupure plus élevée. Dans ce cas
 
 **Résultat attendu :**
 
-![png](assets/filter/notebook_22_1.png)
+![png](assets/nasdaq/notebook_22_1.png)
 
 ## Exercice 4: Filtre passe bas
 
@@ -179,7 +179,7 @@ Le but est d'essayer la stratégie inverse: au lieu d'isoler les variations à g
 
 **Résultat attendu :**
 
-![png](assets/filter/notebook_26_1.png)
+![png](assets/nasdaq/notebook_26_1.png)
 
 
 ## Exercice 5 : Moyenne mobile
@@ -192,4 +192,4 @@ Le but est d'utiliser la "moyenne mobile". Elle est l'un des indicateurs les plu
 
 **Résultat attendu :**
 
-![png](assets/filter/notebook_30_0.png)
+![png](assets/nasdaq/notebook_30_0.png)
