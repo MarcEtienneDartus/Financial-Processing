@@ -20,9 +20,9 @@ import matplotlib as mpl
 
 ## Fonctions utilisées
 
-- Pour les dates : datetime()
-- Pour récupérer les données : web.DataReader()
-- Pour calculer les returns : pct_change()
+- Pour les dates : `datetime()`
+- Pour récupérer les données : `web.DataReader()`
+- Pour calculer les returns : `pct_change()`
 
 ## Exercices
 

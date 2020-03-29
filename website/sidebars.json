@@ -6,6 +6,10 @@
     "Filtrage": ["filter"]
   },
   "applications": {
-    "Travaux Pratiques": ["python-setup","spectral-analysis","nasdaq","finance-appliation"]
+    "Exercices de cours": ["python-setup","spectral-analysis","nasdaq","kalman","finance-appliation"],
+    "Application des moyennes mobiles": ["moving-average"],
+    "Application du Filtrage": ["nasdaq"],
+    "Application de Kalman": ["kalman-explication","kalman-math","kalman-exercice"],
+    "Projet": ["project"]
   }
 }

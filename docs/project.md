@@ -1,5 +1,5 @@
 ---
-id: finance-appliation
+id: project
 title: Projet final appliqué à la Finance
 ---
 
