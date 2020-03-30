@@ -70,6 +70,8 @@ Main files and folder:
 - The sidebars configuration is in `website/sidebars.js` file.
 - All website configuration is in `website/siteConfig.js` file.
 
+If you need more information you can find evrything on [Docusaurus](https://docusaurus.io/) website !
+
 ## How to update the website ? 🛠
 
 You only need to do a pull request to this repo and the website will be automaticaly updated !
