@@ -3,7 +3,9 @@ id: spectral-analysis
 title: Analyse spectrale d’un signal
 ---
 
-Site sur lequel nous avons développé en python : https://colab.research.google.com/ 
+## Importation
+
+> Pour avoir le template du TP faites **Copier sur Drive** depuis ce lien : [Google Colab](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/spectral_analysis.ipynb)
 
 ## Bibliothèques utilisées : 
 

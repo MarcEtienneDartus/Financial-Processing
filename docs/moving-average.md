@@ -3,6 +3,10 @@ id: moving-average
 title: Les moyennes mobiles
 ---
 
+## importation
+
+> Pour avoir le template du TP faites **Copier sur Drive** depuis ce lien : [Google Colab](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/moving_average.ipynb)
+
 ## Mise en place des bibliothèques
 
 ``` python

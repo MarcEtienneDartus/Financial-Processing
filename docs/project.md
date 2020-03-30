@@ -2,14 +2,6 @@
 id: project
 title: Projet final appliqué à la Finance
 ---
-
-Pour ces applications, les étudiants utiliseront Collab comme outil de développement afin d’éviter toute perte de temps dans l’installation de logiciels introuvables/peu compatibles. 
-
-Collab est un IDE en ligne appartenant à GOOGLE directement relié à votre compte google et donc qui se synchronise instantanément. Il est donc plus simple de partager ses projets directement en envoyant le lien de votre drive. 
-
-Vous trouverez toutes les informations importantes et nécessaires sur :  https://colab.research.google.com/
-Pour commencer à programmer, créer un nouveau fichier en Python3, puis c’est parti !
-
 ## Description du projet
 
 Après la crise financière due au coronavirus, JP Morgan a vu le prix de son action passer de 138$ à 79$ par part.
@@ -21,6 +13,10 @@ Quelles périodes particulière avez-vous remarquées lors de votre étude.
 
 > **VaR :** Le montant de pertes qui ne devrait être dépassé avec une probabilité donnée sur un horizon temporel donné.
 Pour notre étude nous utiliserons la VaR 99% sur 20 jours.
+
+## Importation
+
+> Pour avoir le template du TP faites **Copier sur Drive** depuis ce lien : [Google Colab](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/final_project.ipynb)
 
 ## Les grandes étapes
 1. Récupérer les returns

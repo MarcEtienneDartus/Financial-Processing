@@ -3,6 +3,7 @@ id: nasdaq
 title: Filtrage appliqué au NASDAQ
 ---
 
+## Introduction
 Les filtres linéaires jouent un rôle fondamental dans le traitement du signal. Avec un filtre linéaire, on peut extraire des informations significatives d'un signal numérique.
 
 Dans cet exercice, nous allons montrer plusieurs exemples utilisant des données boursières (la bourse NASDAQ). Tout d'abord, nous appliquerons un filtre passe-haut à la série temporelle d'origine pour extraire les variations rapides. Par la suite, nous allons lisser un signal très bruyant avec un filtre passe-bas pour extraire ses variations lentes. Pour finir nous regarderons la méthode de la moyenne mobile pour voir les période de changement de variation.
@@ -12,6 +13,10 @@ Voici quelques liens qui pouront être utiles:
 - [Documentation de pandas](https://pandas.pydata.org/docs/getting_started/basics.html)
 - [Documentation de matplotlib](https://matplotlib.org/tutorials/introductory/usage.html##sphx-glr-tutorials-introductory-usage-py)
 - [Documentation de scipy](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
+
+## Importation
+
+> Pour avoir le template du TP faites **Copier sur Drive** depuis ce lien : [Google Colab](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/filter_nasdaq.ipynb)
 
 **Importation des librairies:**
 

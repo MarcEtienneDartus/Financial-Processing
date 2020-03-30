@@ -1,5 +1,5 @@
 ---
-id: filter
+id: filter-z-transform
 title: Transformée en Z d’un signal discret 
 ---
 
@@ -36,7 +36,7 @@ Nous pouvons retarder un signal de n0Te en multipliant la transformée par z^(-n
 La TZ transforme une convolution en produit simple :
 ![](assets/filter/image007.png)
 
-## TZ usuelles :  
+## TZ usuelles
 
 
 Suites | Transformée en Z | Domaine de convergence
@@ -52,7 +52,7 @@ Suites | Transformée en Z | Domaine de convergence
 `a^n*cos(wn)` | ![](assets/filter/image021.png) | <code>&#124;z&#124;>a</code>
 `a^n*sin(wn)` | ![](assets/filter/image023.png) | <code>&#124;z&#124;>a</code>
 
-## La transformée en Z inverse : TZ^-1 :  
+## La transformée en Z inverse : TZ^-1
 
 ![](assets/filter/image025.png)
 
@@ -61,7 +61,7 @@ Pour trouver le signal x(n) à partir de sa transformée en z, nous allons proc�
 TZ est souvent sous forme de fraction rationnelle -> Décomposition en éléments simple puis recherche des fonctions inverses d’après le tableau des TZ usuelles.  
 
 
-## Equation aux différences :  
+## Equation aux différences 
 
 Les systèmes réalisables vérifient une équation appelée équation aux différences qui relie l’entrée et la sortie du système. Nous avons la relation:
 ![](assets/filter/image048.gif) 

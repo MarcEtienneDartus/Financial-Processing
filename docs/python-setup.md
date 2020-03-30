@@ -2,6 +2,9 @@
 id: python-setup
 title: Analyses simples avec python
 ---
+## Présentation
+
+> Pour avoir le template du TP faites **Copier sur Drive** depuis ce lien : [Google Colab](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/simple_analysis.ipynb)
 
 Pour notre étude nous allons utiliser les retours journaliers d’un stock du marché américain.
 Nous allons mettre en place, grapher et calculer quelques données afin de nous familiariser avec Python.

@@ -3,10 +3,10 @@
     "Intro au traitement du signal": ["intro-signal-treatment","intro-noise","intro-signal-classes","intro-energie-signal-power","intro-signal-continuous-discreet","intro-signal-usual-dirac","intro-slit"],
     "Analyse Fréquentielle": ["frequency-notion","frequency-dsf"],
     "Signaux Discrets": ["signal","signal-shanon"],
-    "Filtrage": ["filter"]
+    "Filtrage": ["filter-basics","filter-z-transform"]
   },
   "applications": {
-    "Exercices de cours": ["python-setup","spectral-analysis","nasdaq","kalman","finance-appliation"],
+    "Exercices de cours": ["python-setup","spectral-analysis"],
     "Application des moyennes mobiles": ["moving-average"],
     "Application du Filtrage": ["nasdaq"],
     "Application de Kalman": ["kalman-explication","kalman-math","kalman-exercice"],

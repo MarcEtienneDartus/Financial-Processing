@@ -47,7 +47,7 @@ class Footer extends React.Component {
             <a href={this.docUrl('signal.html', this.props.language)}>
               Signaux Discrets
             </a>
-            <a href={this.docUrl('filter.html', this.props.language)}>
+            <a href={this.docUrl('filter-basics.html', this.props.language)}>
               Filtrage
             </a>
           </div>

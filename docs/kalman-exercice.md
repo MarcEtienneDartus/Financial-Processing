@@ -2,6 +2,10 @@
 id: kalman-exercice
 title: Exercice sur Kalman
 ---
+## importation
+
+> Pour avoir le template du TP faites **Copier sur Drive** depuis ce lien : [Google Colab](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/kalman.ipynb)
+
 ## Configuration
 
 ```python
