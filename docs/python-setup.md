@@ -19,6 +19,7 @@ from pandas import Series, DataFrame
 import matplotlib.pyplot as plt
 from matplotlib import style
 import matplotlib as mpl
+import numpy as np
 ```
 
 ## Fonctions utilisées

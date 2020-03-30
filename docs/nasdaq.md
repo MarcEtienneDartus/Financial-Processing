@@ -31,6 +31,8 @@ import matplotlib.pyplot as plt
 
 **Importation du fichier CSV**
 
+Vous trouverez le fichier sur [github](https://raw.githubusercontent.com/MarcEtienneDartus/Financial-Processing-Lab/master/nasdaq.csv), vous devez juste faire clique droit enregistrer sous une sur le fichier.
+
 
 ``` python
 from google.colab import files
