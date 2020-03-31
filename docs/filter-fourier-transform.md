@@ -3,6 +3,8 @@ id: filter-fourier-transform
 title: La transformée de Fourier TF
 ---
 
+<iframe src="https://giphy.com/embed/3o7TKTDn976rzVgky4" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+
 ## La transformée de Fourier
 La transformée de Fourier est l'outil qui permet de passer d'une représentation temporelle à une représentation fréquentielle (spectre du signal).
 
@@ -17,7 +19,7 @@ Transformée de Fourier inverse :
 
 ![](assets/filter/fourier002.png)
 
-### Propriétés : 
+### Propriétés
 
 Linéarité : 
 ![](assets/filter/fourier003.png)
