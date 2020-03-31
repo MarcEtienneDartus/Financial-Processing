@@ -39,7 +39,7 @@ class Footer extends React.Component {
           <div>
             <h5>Cours</h5>
             <a href={this.docUrl('intro-signal-treatment.html', this.props.language)}>
-              Intro au traitement du signal
+              Introduction
             </a>
             <a href={this.docUrl('frequency-notion.html', this.props.language)}>
               Analyse Fréquentielle
@@ -48,7 +48,7 @@ class Footer extends React.Component {
               Signaux Discrets
             </a>
             <a href={this.docUrl('filter-basics.html', this.props.language)}>
-              Filtrage
+              Filtrage et transformée
             </a>
           </div>
           <div>

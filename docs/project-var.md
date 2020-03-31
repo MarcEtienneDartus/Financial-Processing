@@ -1,6 +1,6 @@
 ---
 id: project-var
-title: Calcule de la VaR
+title: Aide sur la VaR
 ---
 
 La VaR se doit d'etre defini. Dans notre cas nous allons chercher la VaR sur 1 an avec un risque d'erreur de 1 %.
@@ -11,7 +11,7 @@ La VaR se doit d'etre defini. Dans notre cas nous allons chercher la VaR sur 1 a
 from scipy.stats import norm
 ```
 
-## Récuperation des returns & calcule de la moyenne et l'écart type
+## Récuperation des returns & calcul de la moyenne et l'écart type
 
 ```python
 daily_return = data1.pct_change(1)
@@ -21,14 +21,14 @@ std_dev = np.std(daily_return)
 print("mean = " + "%.4f" % mean + " %" + " | std = " + "%.3f" % std_dev + " %")
 ```
 
-## Calcule de la VaR parametrique
+## Calcul de la VaR parametrique
 
 ```python
 VaR_param = norm.ppf(0.01, mean, std_dev)*100
 print("VaR = " + "%.3f" % VaR_param + " %")
 ```
 
-## Calcule de l'Expected shortfall
+## Calcul de l'Expected shortfall
 
 L'expected shortfall represente la moyenne des pertes supérieures à la VaR. C'est une mesure assez récente en risk de marché qui a su compléter l'analyse de VaR.
 

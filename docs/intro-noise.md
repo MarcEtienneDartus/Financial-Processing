@@ -9,5 +9,4 @@ Un  signal  peut  souvent  avoir  des irrégularités  et  imperfections,  des  
 
 Un des buts du traitement du signal est aussi de parvenir à contrôler et éliminer ce bruit afin d’obtenir un signal le plus propre possible. Par exemple, pour reprendre l’exemple de la finance, sur le cours d’une action, on peut nettoyer le signal pour en **extraire le bruit et une tendance propre**.
 
-
 ![](assets/intro/image003.png)

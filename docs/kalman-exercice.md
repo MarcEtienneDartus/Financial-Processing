@@ -13,6 +13,7 @@ from numpy import *
 from numpy.linalg import inv, det
 from numpy import random
 from numpy import dot
+import matplotlib.pyplot as plt
 ```
 
 ## Prédiction
@@ -40,7 +41,7 @@ def kf_predict(X, P, A, Q, B, U):
 
 ## Mise à jour
 
-Au moment k, cette mise à jour calcule la moyenne postérieure X et la covariance P de l’état du système en prenant en compte une nouvelle mesure Y. La fonction Python kf_update effectue la mise à jour de X et P donnant les matrice X et P prédites, le vecteur Y, la matrice H de la mesure et la covariance R de la mesure. 
+Au moment k, cette mise à jour calcul la moyenne postérieure X et la covariance P de l’état du système en prenant en compte une nouvelle mesure Y. La fonction Python kf_update effectue la mise à jour de X et P donnant les matrice X et P prédites, le vecteur Y, la matrice H de la mesure et la covariance R de la mesure. 
 
 On a donc les input suivants :
 - **K** : la matrice de Gain de Kalman
@@ -108,7 +109,7 @@ B = eye(X.shape[0])
 U = zeros((X.shape[0],1))
 
 # Matrice de mesure 
-Y = array([[X[0,0]+ abs(random.randn(1)[0])], [X[1,0]+abs(random.randn(1)[0])]])
+Y  = array([[X[0,0]+ abs(random.randn(1)[0])], [X[1,0]+abs(random.randn(1)[0])]])
 H = array([[1,0,0,0],[0,1,0,0]])
 R = eye(Y.shape[0])
 
