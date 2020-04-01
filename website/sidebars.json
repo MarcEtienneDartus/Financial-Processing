@@ -6,7 +6,7 @@
     "Filtrage et transformée": ["filter-basics","filter-fourier-transform","filter-z-transform"]
   },
   "applications": {
-    "Exercices de cours": ["python-setup","spectral-analysis","discreet-signal"],
+    "Exercices de cours": ["python-setup","spectral-analysis","discreet-signal","images-analysis"],
     "Application des moyennes mobiles": ["moving-average"],
     "Application du Filtrage": ["nasdaq"],
     "Application de Kalman": ["kalman-explication","kalman-math","kalman-exercice"],
