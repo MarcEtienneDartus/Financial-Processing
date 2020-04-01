@@ -26,6 +26,8 @@ To try the exercices click in this list bellow and then click on **Copy on Drive
 We recommend you to follow the exercice in that order:
 - ⭐️ [Simple analysis](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/simple_analysis.ipynb)
 - ⭐️ [Spectral analysis](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/spectral_analysis.ipynb)
+- ⭐️ [Discreet signals](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/discreet_signal.ipynb)
+- ⭐️ [Images analysis](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/images.ipynb)
 - ⭐️⭐️ [Moving average](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/moving_average.ipynb) 
 - ⭐️⭐️[Filtering NASDAQ](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/filter_nasdaq.ipynb)
 - ⭐️⭐️ [Kalman filter](https://colab.research.google.com/github/MarcEtienneDartus/Financial-Processing-Lab/blob/master/kalman.ipynb)
