@@ -126,11 +126,19 @@ plt.title('Spectre de Magnitude'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
 
+**Résultats :**
+
+![](assets/lab/1-5.png)
+
 ### Question 6
 
 **A faire :** Calculer le spectre de magnitude sur les fréquences non centrées, et l'afficher.
 
 **Question :** Que remarque-t-on par rapport au spectre des fréquences centrées ?
+
+**Résultats :**
+
+![](assets/lab/1-6.png)
 
 
 ## Exercice 2 : Détection de bords, application d'un Filtre Passe Haut sur l'image.
@@ -180,6 +188,10 @@ img_back = np.abs(img_back)
 Pour mieux voir l'effet du filtre, afficher également l'image après filtrage en couleurs.
 
 **Question :** Quel a été l'effet du filtre sur l'image ?
+
+**Résultats :**
+
+![](assets/lab/2-6.png)
 
 
 ## Exercice 3 : Floutage, application d'un Filtre Passe Bas sur l'image.
@@ -236,3 +248,7 @@ img_back = cv2.magnitude(img_back[:,:,0],img_back[:,:,1])
 **A faire :** Afficher l'image originale et l'image après filtrage (en nuances de gris).
 
 **Question :** Quel a été l'effet du filtre sur l'image ?
+
+**Résultats :**
+
+![](assets/lab/3-6.png)
